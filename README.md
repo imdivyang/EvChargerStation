@@ -17,4 +17,4 @@ cd ..
 npx react-native run-ios
 ```
 
-![Demo Video](gifs/react-native-popover-view-smaller.gif)
+![Demo Video](gifs/Demo.gif)
