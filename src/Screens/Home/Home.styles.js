@@ -76,4 +76,18 @@ export const styles = StyleSheet.create({
     height: verticalScale(20),
     width: verticalScale(20),
   },
+  popOverStyle: {
+    backgroundColor: Colors.Primary,
+    borderRadius: verticalScale(10),
+  },
+  screenshotBtn: {
+    paddingHorizontal: horizontalScale(10),
+    paddingVertical: verticalScale(10),
+    width: verticalScale(150),
+  },
+  takeSceernShotText: {
+    fontSize: verticalScale(16),
+    fontWeight: 'bold',
+    color: Colors.sync,
+  },
 });
